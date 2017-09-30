@@ -1,1 +1,3 @@
-esssa é a feature do manat-01
+
+
+esssa é uma sub feature do manat-01, para mostrar como ficaria o git flow.
