@@ -1,0 +1,1 @@
+Estou add esse arquivo para testes e para praticar com o VIM.
