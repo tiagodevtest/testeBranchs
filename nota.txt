@@ -1,0 +1,11 @@
+Esse é um arquivo que estou adicionando para testar
+as funções do vim.
+
+Estou escrevedo aleatóriamente de propósito, pois não consegui 
+
+pensar em nenhum conteúdo interessante.
+
+Desde já, agradeço.
+
+Att., 
+Tiago P Fonseca
